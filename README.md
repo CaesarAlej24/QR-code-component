@@ -72,8 +72,8 @@ I want to focus on developing my programming and design skills through the use o
 
 ### Useful resources
 
-- [Example resource 1](https://developer.mozilla.org) - This helped me for the first steps. I liked these documenting web technologies and will use it going forward.
-- [Example resource 2](https://css-tricks.com) - This is an amazing collection of articles which helped me to understand **CSS** process. I'd recommend it to anyone still learning *CSS*.
+- [MDN Web Docs](https://developer.mozilla.org) - This helped me for the first steps. I liked these documenting web technologies and will use it going forward.
+- [CSS Tricks](https://css-tricks.com) - This is an amazing collection of articles which helped me to understand **CSS** process. I'd recommend it to anyone still learning *CSS*.
 
 ## Author
 
