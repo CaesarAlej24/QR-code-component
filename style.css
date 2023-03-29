@@ -12,14 +12,13 @@ body {
     font-size: 15px;
     text-align: center;
     justify-content: center;
+    min-height: 100vh;
 }
 
 main {
     max-width: 1440px;
     height: auto;
     margin: auto;
-    /* top | right | bottom | left */
-    padding: 160px 1em 0 1em;
 }
 
 img {
